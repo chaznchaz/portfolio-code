@@ -13,7 +13,7 @@ export default function Home() {
           <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-sky-500 to-blue-500 dark:from-sky-400 dark:to-blue-400 text-transparent bg-clip-text">Welcome</h1>
 
           {/* Introduction text with consistent color */}
-          <p className="text-xl md:text-2xl text-zinc-700 dark:text-zinc-300">Hi! I&apos;m Mckay. I like to build things.</p>
+          <p className="text-xl md:text-2xl text-zinc-700 dark:text-zinc-300">Hi! I&apos;m Zack Anderson. I like to build things.</p>
 
           {/* Call-to-action button with gradient */}
           <Link
