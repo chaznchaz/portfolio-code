@@ -40,7 +40,7 @@ export const Header = () => {
             href="/"
             className="bg-gradient-to-r from-sky-500 to-blue-500 dark:from-sky-400 dark:to-blue-400 text-transparent bg-clip-text hover:opacity-80 transition-opacity"
           >
-            Zack's Portfolio
+            Zack&apos;s Portfolio
           </Link>
         </div>
 
